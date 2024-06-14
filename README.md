@@ -4,5 +4,6 @@ Hi this is a message from SWKK49MD. The repository is a open formum for collabor
 The main course of existance is to spread happiness. 
 Lets be truthfull to one another and grow together. 
 All the best!
+Must check-up on project Influencer. 
 The repository has no big responses so far. 
 Must check on Figma assessment.
