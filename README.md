@@ -7,3 +7,4 @@ All the best!
 Must check-up on project Influencer. 
 The repository has no big responses so far. 
 Must check on Figma assessment.
+Adding a pulrequest test to confirm merge
